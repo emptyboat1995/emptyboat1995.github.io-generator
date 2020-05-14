@@ -1,0 +1,4 @@
+baseURL = "http://emptyboat1995.github.io/"
+languageCode = "zh-Hans"
+title = "空舟的博客"
+theme = "ananke"
